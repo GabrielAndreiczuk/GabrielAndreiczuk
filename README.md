@@ -13,5 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white>
+- 
+<!--ÍCIONE C#-->
+<div style = "display:inline_block"><br/>
+  <img align="center" alt="C#" src"https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</div>
+<!--ÍCIONE HTML-->
+<div style = "display:inline_block"><br/>
+  <img align="center" alt="HTML" src"https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+</div>
