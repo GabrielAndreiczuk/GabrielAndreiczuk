@@ -1,3 +1,6 @@
+![logo](https://github.com/GabrielAndreiczuk/GabrielAndreiczuk/blob/main/senai.png)
+
+
 ## Hi there 👋
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-andreiczuk-b9585b21a/)
 
