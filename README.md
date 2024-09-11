@@ -1,4 +1,4 @@
-![logo](https://github.com/GabrielAndreiczuk/GabrielAndreiczuk/blob/main/senai.png)
+![logo](https://github.com/GabrielAndreiczuk/GabrielAndreiczuk/blob/main/github-header.png)
 
 
 ## Hi there 👋
