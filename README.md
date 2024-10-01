@@ -24,7 +24,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=GabrielAndreiczuk&show_icons=true&theme=transparent" alt="GitHub Stats"/>
     </td>
     <td width = "45%" text-align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAndreiczuk&layout=donut&card_width=300" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAndreiczuk&layout=donut&theme=transparent" alt="Top Languages"/>
     </td>
   </tr>
 </table>
