@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAndreiczuk&layout=donut&card_width=300)](https://github.com/GabrielAndreiczuk/github-readme-stats)-->
 
 
-<img src="https://github.com/GabrielAndreiczuk/GabrielAndreiczuk/blob/main/Header%20GitHub.png" alt="logo" width=100%/>
+<img src="https://github.com/GabrielAndreiczuk/GabrielAndreiczuk/blob/main/HeaderGithub.png" alt="logo" width=100%/>
 <!--
 <br>
 <div width="100%">
