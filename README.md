@@ -9,6 +9,10 @@
     </td>
   </tr>
 </table>
+<div>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GabrielAndreiczuk&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAndreiczuk&layout=donut&theme=github_dark" alt="Top Languages"/>
+</div>
 
 ## Olá, eu sou o Gabriel!
 Connect whit me<br>
