@@ -1,23 +1,4 @@
-<!--![logo](https://github.com/GabrielAndreiczuk/GabrielAndreiczuk/blob/main/github-header.png)
-<!--![GabrielAndreiczuk GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielAndreiczuk&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAndreiczuk&layout=donut&card_width=300)](https://github.com/GabrielAndreiczuk/github-readme-stats)-->
-
-
 <img src="https://github.com/GabrielAndreiczuk/GabrielAndreiczuk/blob/main/HeaderGithub.png" alt="logo" width=100%/>
-<!--
-<br>
-<div width="100%">
-  <tr>
-    <td width = "55%" text-align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=GabrielAndreiczuk&show_icons=true&theme=transparent" alt="GitHub Stats" width=50%/>
-    </td>
-    <td width = "45%" text-align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAndreiczuk&layout=donut&card_width=300" alt="Top Languages" width=40%/>
-    </td>
-  </tr>
-</div>-->
-
-
 <table>
   <tr>
     <td width = "55%" text-align="center">
@@ -29,7 +10,7 @@
   </tr>
 </table>
 
-## Hi there 👋
+## Olá, eu sou o Gabriel!
 Connect whit me<br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-andreiczuk-b9585b21a/)
 
