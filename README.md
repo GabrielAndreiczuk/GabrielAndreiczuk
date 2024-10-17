@@ -13,7 +13,7 @@
 </table>-->
 <div width="100%" align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GabrielAndreiczuk&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAndreiczuk&layout=donut&langs_count=5&theme=github_dark" alt="Top Languages"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAndreiczuk&layout=donut&langs_count=6&theme=github_dark" alt="Top Languages"/>
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAndreiczuk&layout=compact&langs_count=7&theme=github_dark" alt="Top Languages"/>-->
 </div>
 
@@ -45,6 +45,7 @@
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt=".NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg" />
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScrip" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
