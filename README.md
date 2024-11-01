@@ -13,7 +13,7 @@
 </table>-->
 <div width="100%" align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GabrielAndreiczuk&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAndreiczuk&layout=donut&langs_count=6&theme=github_dark" alt="Top Languages"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAndreiczuk&layout=donut&langs_count=6&theme=github_dark&exclude_repo=https://github.com/GabrielAndreiczuk/.NET-MAUI-Beginner-Projects alt="Top Languages"/>
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAndreiczuk&layout=compact&langs_count=7&theme=github_dark" alt="Top Languages"/>-->
 </div>
 
