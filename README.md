@@ -22,7 +22,7 @@
 <!--Here are some ideas to get you started:-->
 - 🔭 Estou trabalhando em projetos acadêmicos e projetos pessoais!
 - 🌱 Estou aprendendo C# e .NET Framework.
-- 😄 Para mais informações veja meu <a href="https://github.com/GabrielAndreiczuk/GabrielAndreiczuk/blob/main/Curr%C3%ADculo%20-%20Gabriel%20Andreiczuk.pdf" class="nav-link">**Currículo**</a>
+- 😄 Para mais informações veja meu <a href="https://github.com/GabrielAndreiczuk/GabrielAndreiczuk/blob/main/CV_Gabriel_Andreiczuk.pdf" class="nav-link">**Currículo**</a>
 <!--- 👯 I’m looking to collaborate on ...-->
 <!--- 🤔 I’m looking for help with ...-->
 <!--- 💬 Ask me about ...-->
