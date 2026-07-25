@@ -17,7 +17,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAndreiczuk&layout=compact&langs_count=7&theme=github_dark" alt="Top Languages"/>
 </div>-->
 
-## Olá, eu sou o Gabriel, desenvolvedor back-end!
+## Olá, eu sou o Gabriel, cientista de dados!
 
 <!--Here are some ideas to get you started:-->
 - 🔭 Estou trabalhando em projetos acadêmicos e projetos pessoais!
