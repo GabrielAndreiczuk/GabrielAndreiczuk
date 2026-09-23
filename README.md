@@ -1,5 +1,5 @@
 <!--**GabrielAndreiczuk/GabrielAndreiczuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<img src="https://github.com/GabrielAndreiczuk/GabrielAndreiczuk/blob/main/HeaderGithub.png" alt="logo" width=100%/>
+<img src="https://github.com/GabrielAndreiczuk/GabrielAndreiczuk/blob/main/Gabriel Andreiczuk.png" alt="logo" width=100%/>
 <!--
 <table>
   <tr>
@@ -21,7 +21,7 @@
 
 <!--Here are some ideas to get you started:-->
 - 🔭 Estou trabalhando em projetos acadêmicos e projetos pessoais!
-- 🌱 Estou aprendendo C# e .NET Framework.
+- 🌱 Estou aprendendo conceitos de mineração de dados e aprendizado de máquina.
 - 😄 Para mais informações veja meu <a href="https://github.com/GabrielAndreiczuk/GabrielAndreiczuk/blob/main/CV_Gabriel_Andreiczuk.pdf" class="nav-link">**Currículo**</a>
 <!--- 👯 I’m looking to collaborate on ...-->
 <!--- 🤔 I’m looking for help with ...-->
